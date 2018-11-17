@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Modifying for checking stashing
 Change in First line in Testing branch
 adasdasadas
@@ -24,3 +25,9 @@ ssdadasd
 
 
 asdajlsdalsjdlajlsdjalsjdlasla
+adasdasd`dasdadsaaddasdas
+his is the first line added for first commit
+commit directly without add
+Oct24 modeified.
+Modified for triggering build
+Modidiged from Slave
